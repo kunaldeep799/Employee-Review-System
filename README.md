@@ -16,12 +16,9 @@ This Employee review web application is created for employees to submit feedback
 - View reviews given by others
 
 ## How to setup the project on local system
-  1. Clone this project from https://github.com/kunaldeep799/Employee-Review-System.git
-  2. Start by installing npm if you don't have it already.
-  3. Navigate to Project Directory and run the following the command, After that visit in your local browser- http://localhost:5000/
-- Clone the repository in your local system
-- Install all required packages
-
+- Clone this project from https://github.com/kunaldeep799/Employee-Review-System.git
+- Start by installing npm if you don't have it already.
+- Navigate to Project Directory and run the following the command.
 ```bash
 npm install
 ```
@@ -30,7 +27,8 @@ npm install
 ```bash
 npm start or nodemon index.js
 ```
-
+- visit in your local browser- http://localhost:5000/
+ 
 ## Tech Stack
 - NodeJS
 - MongoDB
