@@ -22,7 +22,6 @@ This Employee review web application is created for employees to submit feedback
 ```bash
 npm install
 ```
-
 - Run project
 ```bash
 npm start or nodemon index.js
@@ -36,7 +35,7 @@ npm start or nodemon index.js
 - EJS
 - Bootstrap
 
-### Libraries:
+## Libraries:
 
 - bcryptjs
 - connect-flash
